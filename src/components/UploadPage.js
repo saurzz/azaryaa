@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { getStorage, ref, uploadBytesResumable } from 'firebase/storage';
+import { ref, uploadBytesResumable } from 'firebase/storage';
 import Navbar1 from './Navbar1';
 
 const UploadPage = ({ storage }) => {
