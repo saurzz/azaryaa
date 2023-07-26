@@ -8,12 +8,7 @@ import { initializeApp } from 'firebase/app';
 import { getStorage } from 'firebase/storage';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDrR0Q-xcD34Jo9Wk832cjcV-mdDHdtD8o",
-  authDomain: "web3-2c700.firebaseapp.com",
-  projectId: "web3-2c700",
-  storageBucket: "web3-2c700.appspot.com",
-  messagingSenderId: "899149372944",
-  appId: "1:899149372944:web:9da5c5ff0607a56a6e7495"
+  
 }
 
 const firebaseApp = initializeApp(firebaseConfig);
