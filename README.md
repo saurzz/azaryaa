@@ -1,3 +1,9 @@
+During the development,the bot is trained on the bitcoin whitepaper.You can add the bot from the link given below and ask any questions related to bitcoin.If you want to train the bot over other whitepapers,install the app by following the given instructions & upload the relevant documents.
+
+Link to live bot : https://t.me/HeckkAiBOT
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
